@@ -1,0 +1,29 @@
+Assignment: Snake Game with Border and Tail Growth
+
+Objective:
+The objective of this assignment is to complete a Snake Game the we develop in LAB 5 (recitation on Jun 6)with the following modifications:
+1. Edit the border of the game to have a width of 30 and a height of 20.
+2. Add controls to the snake, allowing it to wrap around to the opposite side of the border when it goes out of bounds from the top or bottom.
+3. Implement tail growth, where the snake's tail grows by one unit when it eats a fruit.
+
+Instructions:
+
+2. The game should have a border with a width of 30 and a height of 20. The snake should move within this border.
+3. Implement controls that allow the player to move the snake in the four directions: up, down, left, and right.
+4. When the snake goes out of bounds from the top or bottom, it should wrap around to the opposite side of the border. For example, if the snake moves off the top side of the border, it should reappear at the bottom side.
+5. Place a fruit at random positions within the border. When the snake's head touches the fruit, the fruit should be consumed, and the snake's tail should grow by one unit.
+6. Display the score on the screen, indicating the number of fruits consumed.
+7. Implement game over conditions, such as when the snake collides with its own tail or hits the border.
+8. Adjust the speed of the game to a suitable value, allowing the player to control the snake effectively.
+9. Test the game to ensure it functions as expected, including the border, snake movement, tail growth, and game over conditions.
+10. Write clear and concise code, using appropriate variable names, comments, and indentation to enhance code readability.
+11. Optionally, you can add extra features or improvements to the game to make it more interesting and engaging.
+
+Deliverables:
+1. Submit your source code file containing the implementation of the Snake Game with the specified modifications.
+2. Include a README file that provides instructions on how to compile and run the game.
+3. If you made any additional enhancements to the game, describe them in the README file.
+
+Note: Remember to test your code thoroughly before submission to ensure it works correctly and handles various scenarios.
+
+Good luck with your assignment!
